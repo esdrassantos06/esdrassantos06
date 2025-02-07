@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning **Python, AI and ML**<br><br>- 👨‍💻 All of my projects are available at [https://portfolio-esdrassantos06s-projects.vercel.app/](https://portfolio-esdrassantos06s-projects.vercel.app/)<br><br>- 📫 How to reach me **esdrasirion1@gmail.com**</p>
+<p align="left">- 🌱 I’m currently learning **Python, AI and ML**<br><br>- 👨‍💻 All of my projects are available at https://portfolio-esdrassantos06s-projects.vercel.app/<br><br>- 📫 How to reach me **esdrasirion1@gmail.com**</p>
 
 ###
 
