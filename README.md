@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Esdras Santos, and I'm a React and Python Developer</h1>
+<h1 align="left">Hi 👋, I'm Esdras Santos, and I'm a FullStack Developer</h1>
 
 ###
 
