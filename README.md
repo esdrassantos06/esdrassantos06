@@ -18,7 +18,7 @@
 
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=esdrassantos06&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false" />
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdrassantos06&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdrassantos06&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 
