@@ -11,7 +11,7 @@
 I'm a passionate **FullStack Developer** who loves crafting digital experiences from frontend to backend. Currently diving deep into the fascinating world of **Artificial Intelligence and Machine Learning** with Python, always eager to learn and implement cutting-edge technologies.
 
 - 🔭 **Currently working on:** AI-powered web applications
-- 🌱 **Learning:** Advanced AI/ML algorithms and Deep Learning frameworks
+- 🌱 **Learning:** AI/ML algorithms and Deep Learning frameworks
 - 💡 **Interests:** Clean code, scalable architectures, and innovative user experiences
 - ⚡ **Fun fact:** I believe every bug is just an undocumented feature waiting to be discovered!
 
