@@ -2,17 +2,18 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=FullStack+Developer;AI+%26+ML+Enthusiast;Building+the+Future+with+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer;Building+the+Future+with+Code)](https://git.io/typing-svg)
+
 
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **FullStack Developer** who loves crafting digital experiences from frontend to backend. Currently diving deep into the fascinating world of **Artificial Intelligence and Machine Learning** with Python, always eager to learn and implement cutting-edge technologies.
+I'm a passionate **FullStack Developer** who loves building robust and scalable web applications from **frontend to backend**. Currently, I'm focusing primarily on **backend development**, creating APIs and integrating systems, while still maintaining my **frontend skills**.  
 
-- 🔭 **Currently working on:** AI-powered web applications
-- 🌱 **Learning:** AI/ML algorithms and Deep Learning frameworks
-- 💡 **Interests:** Clean code, scalable architectures, and innovative user experiences
+- 🔭 **Currently working on:** Web applications, focusing primarily on **backend development and APIs**, while still handling frontend tasks.  
+- 🌱 **Learning:** DSA and Clean architecture patterns  
+- 💡 **Interests:** Clean code, scalable architectures, and innovative user experiences  
 - ⚡ **Fun fact:** I believe every bug is just an undocumented feature waiting to be discovered!
 
 ## 🛠️ Tech Arsenal
@@ -20,11 +21,10 @@ I'm a passionate **FullStack Developer** who loves crafting digital experiences 
 ### **Languages & Core Technologies**
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 
 </div>
 
@@ -33,6 +33,7 @@ I'm a passionate **FullStack Developer** who loves crafting digital experiences 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -45,10 +46,12 @@ I'm a passionate **FullStack Developer** who loves crafting digital experiences 
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
@@ -67,9 +70,11 @@ I'm a passionate **FullStack Developer** who loves crafting digital experiences 
 ### **Deployment & Tools**
 <div align="center">
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
