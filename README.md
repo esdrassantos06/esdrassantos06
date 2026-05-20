@@ -85,7 +85,7 @@ I'm a passionate **FullStack Developer** who loves building robust and scalable 
 
 I'm always excited to collaborate on interesting projects or just chat about technology!
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/esdrassantos06)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/esdrasprft)
@@ -97,7 +97,6 @@ I'm always excited to collaborate on interesting projects or just chat about tec
 ## 💼 What I'm Looking For
 
 - 🤝 **Collaboration** on innovative web applications
-- 🧠 **Learning opportunities** in AI/ML projects  
 - 💡 **Open source** contributions
 - 🌟 **Exciting challenges** that push my skills forward
 
