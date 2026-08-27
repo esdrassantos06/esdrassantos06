@@ -12,9 +12,7 @@
 I'm a passionate **FullStack Developer** who loves building robust and scalable web applications from **frontend to backend**. Currently, I'm focusing primarily on **backend development**, creating APIs and integrating systems, while still maintaining my **frontend skills**.  
 
 - 🔭 **Currently working on:** Web applications, focusing primarily on **backend development and APIs**, while still handling frontend tasks.  
-- 🌱 **Learning:** DSA and Clean architecture patterns  
 - 💡 **Interests:** Clean code, scalable architectures, and innovative user experiences  
-- ⚡ **Fun fact:** I believe every bug is just an undocumented feature waiting to be discovered!
 
 ## 🛠️ Tech Arsenal
 
