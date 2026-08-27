@@ -74,11 +74,6 @@ I'm a passionate **FullStack Developer** who loves building robust and scalable 
 
 </div>
 
-## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esdrassantos06&theme=catppuccin-mocha&hide_border=true" />
-</div>
-
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on interesting projects or just chat about technology!
