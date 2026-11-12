@@ -1,10 +1,4 @@
-# 👋 I'm Esdras Santos
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Fullstack+developer;Mostly+backend+these+days;APIs%2C+integrations%2C+the+boring+parts)](https://git.io/typing-svg)
-
-</div>
+# I'm Esdras Santos
 
 ## About
 
@@ -12,7 +6,7 @@ Fullstack, though most of my week goes to the backend now: APIs, integrations, t
 
 Currently living in Node and NestJS. Go and Python show up when the job calls for them.
 
-## 🛠️ Stack
+## Stack
 
 ### Languages
 <div>
@@ -28,6 +22,8 @@ Currently living in Node and NestJS. Go and Python show up when the job calls fo
 
 </div>
 
+ORMs: TypeORM, Prisma and Drizzle.
+
 ### Frontend
 <div>
 
@@ -38,13 +34,22 @@ Currently living in Node and NestJS. Go and Python show up when the job calls fo
 ### Data & Infra
 <div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="AWS" title="AWS" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker" />
 
 </div>
 
-## 📬 Reach me
+File storage on AWS S3. Deploys with Docker on Coolify.
 
-Open to open source work and interesting backend problems. Say hi:
+### Testing & CI
+<div>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitest/vitest-original.svg" height="45" alt="Vitest" title="Vitest" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jest/jest-plain.svg" height="45" alt="Jest" title="Jest" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/playwright/playwright-original.svg" height="45" alt="Playwright" title="Playwright" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/githubactions/githubactions-original.svg" height="45" alt="GitHub Actions" title="GitHub Actions" />
+
+</div>
+
+## Reach me
+
+Looking for a junior or mid full stack role in Porto, Braga or remote. Say hi:
 
 <div align="left">
 
@@ -57,10 +62,8 @@ Open to open source work and interesting backend problems. Say hi:
 
 <div align="center">
 
-### 🐍 The snake eats my commits
+### The snake eats my commits
 
 <img src="https://raw.githubusercontent.com/esdrassantos06/esdrassantos06/output/snake.svg" alt="Snake animation" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=esdrassantos06&color=6366f1&style=for-the-badge)
 
 </div>
